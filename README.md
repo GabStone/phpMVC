@@ -16,6 +16,6 @@ PHP MVC Framework
 - `index.php` - The entry point to our application. 
 
 ## Version
-Version: 1.0.0
+Version: 1.0.1
 
 Created By Gabriel Stone (@GabStone)
